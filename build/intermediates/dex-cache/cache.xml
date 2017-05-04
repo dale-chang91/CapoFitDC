@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/dalecious1/.android/build-cache/8429ca1f7cdfffdb6ba301ebbf16f1844008f3ee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/dalecious1/projects/CapoFitDC/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae8d66a0225e10e88e3d51f2db297f9730191681/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dalecious1/.android/build-cache/0dfb059c9801b03a6c39cba8bd92ea292304d1b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/dalecious1/projects/CapoFitDC/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e3a238fdd42bf11ebfe775f2bafa83d14323dcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dalecious1/.android/build-cache/e0b83775113d852b2695bfb1986885b68e6f9e07/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/dalecious1/projects/CapoFitDC/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_754fc667b5e3c55876507399c67b69cb002664eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dalecious1/.android/build-cache/abf36d2c8a41dc6d404726009486176e02612d3c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/dalecious1/projects/CapoFitDC/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b141ef3dbb7459835d94f262d0cb9c45e52fb2dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dalecious1/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/dalecious1/projects/CapoFitDC/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_0f2d224780f70538f33656d4d500392bb08d8047/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dalecious1/.android/build-cache/71a983f7e011e47c8afdcf10275a6c96fe4a32c9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/dalecious1/projects/CapoFitDC/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_906af392712a6c4813ee0fb1a70734e50cd990a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dalecious1/projects/CapoFitDC/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/dalecious1/projects/CapoFitDC/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8bf2138338558d98b73a656e641b71f46474a111/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dalecious1/projects/CapoFitDC/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95c402038d375005cf48f3d4762c663bc294a9e3">
+        <dex dex="/home/dalecious1/projects/CapoFitDC/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_92286264383562bdb89b0012ec065885c78b66c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dalecious1/.android/build-cache/fe131d4cd9d3587b35930ddfa640973e36dff8e1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/dalecious1/projects/CapoFitDC/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cae1d799313d19e3219c2ee43f19d3b1286c5c6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dalecious1/.android/build-cache/07e6c606a3b51ed1eb2f1d67b47c3545bfa398d8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/dalecious1/projects/CapoFitDC/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a86873969f39c067715afb9116bc263874ef39b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dalecious1/.android/build-cache/5b6f56a1cdb9329c68586001d598a4b631d7fea1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/dalecious1/projects/CapoFitDC/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b0fa708d9f1ea26d968db9610b5145e417fe6fab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dalecious1/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/dalecious1/projects/CapoFitDC/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_14b3366c515ad8b4e62376313e1ebd4d38ae6a85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dalecious1/.android/build-cache/8a8b4264339e457b6e43ca3c6e2fc6f97078f82f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/dalecious1/projects/CapoFitDC/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cfcb71881db50ee6adca66bdb645559639d70caa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dalecious1/.android/build-cache/3a9f304cec11fb4770295669c89284abbc8e1368/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/dalecious1/projects/CapoFitDC/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0351e2f9eff36329f356ea9ad02287c283a1c6c7/classes.dex" />
+    </item>
+
+</items>
