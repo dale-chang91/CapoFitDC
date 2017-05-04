@@ -57,6 +57,12 @@ public class MainActivity extends AppCompatActivity {
         Calendar calendar = Calendar.getInstance();
         weekday = calendar.getDisplayName(Calendar.DAY_OF_WEEK, Calendar.LONG
         , Locale.getDefault());
+
+        //TODO: Print day at the top of the screen
+        //TODO: Create two lists for two classes
+        //TODO: Add ability to add students to list
+        //TODO: Students can be created from new or use existing students
+        //TODO: Store students on phone database
     }
 
     @Override
